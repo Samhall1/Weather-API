@@ -1,0 +1,31 @@
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    text-align: center;
+    background: #14608b;
+    color: white;
+    font-size: 30px;
+}
+
+
+.one {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction:column;
+    align-content:center;
+    border: 2px solid black;
+    padding-bottom: 15px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+console.log("running inside main.js");
